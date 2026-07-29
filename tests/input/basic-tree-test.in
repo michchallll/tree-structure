@@ -1,0 +1,78 @@
+create node root
+create node a
+create node b
+create node c
+create node d
+
+create node aa
+create node ab
+create node ac
+create node ad
+
+create node ba
+create node bb
+create node bc
+create node bd
+create node ca
+create node cb
+create node cc
+create node cd
+
+create node da
+create node db
+create node dc
+create node dd
+
+attach node a under root
+attach node b under root
+attach node c under root
+attach node d under root
+
+attach node aa under a
+attach node ab under a
+attach node ac under a
+attach node ad under a
+
+attach node ba under b
+attach node bb under b
+attach node bc under b
+attach node bd under b
+
+attach node ca under c
+attach node cb under c
+attach node cc under c
+attach node cd under c
+
+attach node da under d
+attach node db under d
+attach node dc under d
+attach node dd under d
+
+print node root
+
+print node a
+print node b
+print node c
+print node d
+
+print node aa
+print node ab
+print node ac
+print node ad
+
+print node ba
+print node bb
+print node bc
+print node bd
+
+print node ca
+print node cb
+print node cc
+print node cd
+
+print node da
+print node db
+print node dc
+print node dd
+
+print tree

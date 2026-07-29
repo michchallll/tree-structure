@@ -1,0 +1,84 @@
+New node root
+New node a
+New node b
+New node c
+New node d
+New node aa
+New node ab
+New node ac
+New node ad
+New node ba
+New node bb
+New node bc
+New node bd
+New node ca
+New node cb
+New node cc
+New node cd
+New node da
+New node db
+New node dc
+New node dd
+New root node root
+Node a is child of node root
+Node b is child of node root
+Node c is child of node root
+Node d is child of node root
+Node aa is child of node a
+Node ab is child of node a
+Node ac is child of node a
+Node ad is child of node a
+Node ba is child of node b
+Node bb is child of node b
+Node bc is child of node b
+Node bd is child of node b
+Node ca is child of node c
+Node cb is child of node c
+Node cc is child of node c
+Node cd is child of node c
+Node da is child of node d
+Node db is child of node d
+Node dc is child of node d
+Node dd is child of node d
+Node root with 4 children a,b,c,d
+Node a with 4 children aa,ab,ac,ad
+Node b with 4 children ba,bb,bc,bd
+Node c with 4 children ca,cb,cc,cd
+Node d with 4 children da,db,dc,dd
+Node aa with 0 children
+Node ab with 0 children
+Node ac with 0 children
+Node ad with 0 children
+Node ba with 0 children
+Node bb with 0 children
+Node bc with 0 children
+Node bd with 0 children
+Node ca with 0 children
+Node cb with 0 children
+Node cc with 0 children
+Node cd with 0 children
+Node da with 0 children
+Node db with 0 children
+Node dc with 0 children
+Node dd with 0 children
+-[root]
+    -[a]
+        -[aa]
+        -[ab]
+        -[ac]
+        -[ad]
+    -[b]
+        -[ba]
+        -[bb]
+        -[bc]
+        -[bd]
+    -[c]
+        -[ca]
+        -[cb]
+        -[cc]
+        -[cd]
+    -[d]
+        -[da]
+        -[db]
+        -[dc]
+        -[dd]
