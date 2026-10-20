@@ -1,4 +1,4 @@
-# ctree - Command Line Tree Structure Manager
+# Command Line Tree Structure Manager
 
 A simple command-line application written in C++ for creating and managing hierarchical tree structures.
 
